@@ -1,4 +1,4 @@
-# creativeRailsProject
+# creative rails project
 
 Contributors: Chen Pekker and Daksha Agarwal
 
@@ -31,7 +31,7 @@ The first issue we ran into was that one of the contributors was unable to push 
 Our second issue was finding a proper tutorial. The first two we tried to follow were written by other beginners and resulted in errors when we tried to compile. 
 
 Installation steps:
-To install our application, download the entire repo and navigate to it in terminal. Run the command `rails s` to start the server. In your preferred web browser open [localhost:3000](http://localhost:3000) to access _Scenes_. 
+To install our application, make sure you have rails 5 and ruby installed. Next, download the entire repo and navigate to it in terminal (to the twittter folder). You may need to run the commands: `bundle install` and `rails db:migrate`. Next, run the command `rails s` to start the server. In your preferred web browser open [localhost:3000](http://localhost:3000) to access _Scenes_. 
 
 References:
 - MIT License taken from: https://opensource.org/licenses/MIT

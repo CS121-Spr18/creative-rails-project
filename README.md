@@ -3,13 +3,13 @@
 Contributors: Chen Pekker and Daksha Agarwal
 
 Summary:
-News, friends, sports, and stories, at the reach of your fingertips. _Scenes_ allows users to express themselves in the form of short Tweeets through an online profile. Each user can create, edit, and delete their own posts. Users will need to login to make changes to their account with a username and password. Join the online conversation now!
+_Scenes_ is your new favorite social media platform. Here, friends share their favorite scenes, anything from that dumb thing you overheard, to the hilarious joke your best friend made. _Scenes_ allows users to express themselves and commemorate those tiny moments, in the form of short scenes through an online profile. Each user can create, edit, and delete their own scenes. Users will need to login to make changes to their account with a username and password. Now you can laugh at your friends forever!
 
 Product users: 
 Our intented users are between the ages of 13-35 who are interested in sharing their thoughts with their followers, and be able to keep up to date instantly with the posts from others. 
 
 MVP (essential features):
-Our MVP will consist of users being able to create, edit, and delete their own Scenes. The post will be displayed in a chronological feed in descending order.
+Our MVP will consist of users being able to create, edit, and delete their own scenes. The scenes will be displayed in a chronological feed in descending order.
 
 Functionality: 
 As an online user, this application will allow you to share your thoughts instantly with all your followers. We seek to resemble a professional user interface with defined features such as trends and users to follow, as well as the feed. We hope this product will be a unique platform for users to interact from around the world, allowing them to broaden their scope of interactions, knowledge and ideas.

@@ -22,7 +22,7 @@ Example of the main page:
 Example of creating a scene:
 ![alt text](https://github.com/chenphmc/creative-rails-project/blob/master/newT.jpg)
 
-Example of editing on a scene:
+Example of editing a scene:
 ![alt text](https://github.com/chenphmc/creative-rails-project/blob/master/editT.jpg)
 
 Issues:
@@ -31,7 +31,7 @@ The first issue we ran into was that one of the contributors was unable to push 
 Our second issue was finding a proper tutorial. The first two we tried to follow were written by other beginners and resulted in errors when we tried to compile. 
 
 Installation steps:
-To install our application, download the entire repo and navigate to it in terminal. Run the command `rails s` to start the server. In your preferred web browser open [localhost:3000](localhost:3000) to access _Scenes_. 
+To install our application, download the entire repo and navigate to it in terminal. Run the command `rails s` to start the server. In your preferred web browser open <localhost:3000> to access _Scenes_. 
 
 References:
 - MIT License taken from: https://opensource.org/licenses/MIT

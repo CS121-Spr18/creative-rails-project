@@ -1,4 +1,4 @@
-# creativeRailsProject
+# creative rails project
 
 Contributors: Chen Pekker and Daksha Agarwal
 

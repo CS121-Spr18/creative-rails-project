@@ -21,10 +21,11 @@
 			</div>
 			<div class="media-content">
 				<div class="content">
-					<strong>Chaksha Pagarwal</strong><br />
-					<small>@webcrunch</small><br /> <!--- TODO:change this-->
+					<strong> <%= tweeet.user.name %> </strong><br />
+					<small> <%= tweeet.user.username %> </small><br /> <!--- TODO:change this-->
 					<p><%= tweeet.tweeet %></p> 
 				</div>
+				<% if user_signed_in? %> 
 				<nav class="level">
 					<div class="level-left is-mobile">
 						<%= link_to tweeet, class: "level-item" do %>
@@ -40,6 +41,7 @@
 						<% end %>
 					</div>
 				</nav>
+				<% end %>
 			</div> 
 		</article>
 	</div>
